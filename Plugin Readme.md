@@ -13,7 +13,7 @@
 - Author(s):         jalil49
 - More information:  https://github.com/jalil49/Maker_Tools
 
-# Additional Skin Effects v2.1.1
+# Additional Skin Effects v2.0.1
 - Short description: Adds new effects to main game and studio, for example bukkake
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/Illusion_SkinEffects
@@ -63,7 +63,7 @@
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/BepInEx
 
-# BepisPlugins v19.1
+# BepisPlugins v18.2
 - Short description: Collection of essential plugins
 - Author(s):         bbepis
 - More information:  https://github.com/bbepis/BepisPlugins
@@ -113,12 +113,12 @@
 - Author(s):         IllusionMods
 - More information:  https://github.com/IllusionMods/CharacterReplacer
 
-# CharaStateX v1.1.1.0
+# CharaStateX v1.1.0.0
 - Short description: Can edit state of multiple charas in studio at once
 - Author(s):         Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
-# Cheat Tools v3.2.1
+# Cheat Tools v3.1.1
 - Short description: In-game trainer/debugging plugin
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/IllusionCheatTools
@@ -198,12 +198,12 @@
 - Author(s):         IllusionMods
 - More information:  https://github.com/IllusionMods/DragAndDrop
 
-# Dynamic Bone Editor v1.0.5
+# Dynamic Bone Editor v1.0.4
 - Short description: Editing for accessory DynamicBones in the character maker
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# EditFangs v1.1.1
+# EditFangs v1.1.0
 - Short description: Allows adjusting the length and position of the vanilla fangs
 - Author(s):         Njaecha
 - More information:  ???
@@ -263,12 +263,7 @@
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/FPSCounter
 
-# Free H Random v2.0.0.0
-- Short description: Adds Random Character buttons to FreeH
-- Author(s):         DeathWeasel1337
-- More information:  https://github.com/DeathWeasel1337/KK_Plugins
-
-# Free H Random v1.4
+# Free H Random v1.3
 - Short description: Adds Random Character buttons to FreeH
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
@@ -323,7 +318,7 @@
 - Author(s):         IDontHaveIdea
 - More information:  https://github.com/IDontHaveIdea/IDHIStore.git
 
-# IllusionFixes v20.2
+# IllusionFixes v20.1
 - Short description: A collection of important fixes
 - Author(s):         IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
@@ -378,17 +373,17 @@
 - Author(s):         Animal42069
 - More information:  https://www.patreon.com/Animal42069
 
-# KKSABMX (BonemodX) v5.0.2
+# KKSABMX (BonemodX) v4.4.6
 - Short description: Adds additional sliders to character maker
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/KKABMX
 
-# KKSPE v2.13.3.1
+# KKSPE v2.13.2
 - Short description: Advanced studio controls(Has issues)
 - Author(s):         joan6694
 - More information:  ???
 
-# KKSUS v1.12.0
+# KKSUS v1.11.1
 - Short description: Search boxes, studio and maker improvements
 - Author(s):         joan6694
 - More information:  https://www.patreon.com/joan6694
@@ -403,15 +398,10 @@
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
-# LewdCrestX v1.4
+# LewdCrestX v1.3.3
 - Short description: Give characters lewd crests
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
-
-# Light Manager v1.0.1.0
-- Short description: Studio spotlights can track characters
-- Author(s):         Keelhauled
-- More information:  https://github.com/Keelhauled/KeelPlugins
 
 # Lighting Tweaks v1.0.1
 - Short description: Increases shadow resolution for better quality (Nukes performance)
@@ -423,12 +413,12 @@
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# LockOnPlugin v2.6.3.0
+# LockOnPlugin v2.6.2.0
 - Short description: Hotkey to make camera keep focus on character
 - Author(s):         Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
-# LoveMachine v3.2.0
+# LoveMachine v2.10.0
 - Short description: Adds support for buttplug.io compatible strokers and vibrators
 - Author(s):         Sauceke
 - More information:  https://github.com/Sauceke/LoveMachine
@@ -473,7 +463,7 @@
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# Material Editor v3.1.21
+# Material Editor v3.1.18
 - Short description: Adds advanced material controls to maker and studio
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
@@ -493,7 +483,7 @@
 - Author(s):         IllusionMods
 - More information:  https://github.com/IllusionMods/ModBoneImplantor
 
-# Modding API v1.35
+# Modding API v1.33
 - Short description: API needed for many plugins
 - Author(s):         ManlyMarco
 - More information:  https://github.com/IllusionMods/IllusionModdingAPI
@@ -533,7 +523,7 @@
 - Author(s):         joan6694
 - More information:  ???
 
-# ObjImport v2.1.3
+# ObjImport v2.1.2
 - Short description: Import external .obj files directly into Studio
 - Author(s):         Njaecha
 - More information:  ???
@@ -573,7 +563,7 @@
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# Pregnancy v2.7
+# Pregnancy v2.6
 - Short description: Adds pregnancy to gameplay, maker and studio
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
@@ -603,7 +593,7 @@
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# RealPOV v1.3.1.0
+# RealPOV v1.3.0.0
 - Short description: First person camera for H
 - Author(s):         RealPOV.KoikatsuSunshine
 - More information:  ???
@@ -623,22 +613,22 @@
 - Author(s):         IllusionMods
 - More information:  https://github.com/IllusionMods/RimRemover
 
-# RuntimeUnityEditor v4.0.1.1
+# RuntimeUnityEditor v2.7
 - Short description: Debugging and development tool
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/RuntimeUnityEditor
 
-# Shader Swapper v1.3
+# Shader Swapper v1.2
 - Short description: Swap all shaders to the equivalent Vanilla Plus shader in maker (ctrl + P)
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# Skin Overlay Mod v6.1
+# Skin Overlay Mod v6.0.7
 - Short description: Custom body, clothes and eye textures
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/Illusion-Overlay-Mods
 
-# SliderHighlight v2.2
+# SliderHighlight v2.1.2
 - Short description: Highlights the area affected by sliders in character maker
 - Author(s):         ManlyMarco
 - More information:  https://github.com/ManlyMarco/IL_SliderHighlight
@@ -680,6 +670,11 @@
 
 # Studio Reflect FK Fix v21.9.28.0
 - Short description: Fix neck issues with IK-FK conversion
+- Author(s):         jim60105
+- More information:  https://github.com/jim60105/KK
+
+# Studio Save Workspace Order Fix v21.9.28.0
+- Short description: Preserve order of studio items in workspace list
 - Author(s):         jim60105
 - More information:  https://github.com/jim60105/KK
 
@@ -743,15 +738,10 @@
 - Author(s):         IllusionMods
 - More information:  https://github.com/IllusionMods/TranslationTools
 
-# Timeline v1.1.7
+# Timeline v1.1.5
 - Short description: Advanced animation editor for Studio (Ctrl+T, read the Help)(possible issues)
 - Author(s):         joan6694
 - More information:  ???
-
-# Title shortcuts v1.3.0.0
-- Short description: Hotkeys in main menu; can automatically start maker
-- Author(s):         Keelhauled
-- More information:  https://github.com/Keelhauled/KeelPlugins
 
 # Translation Cache Cleaner v0.6.0.3
 - Short description: Hotkey to clean stale translations from cache
@@ -773,7 +763,7 @@
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# Uncensor Selector v3.11.6
+# Uncensor Selector v3.11.5
 - Short description: NEEDS Koikatsu overlay mods!
 - Author(s):         DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
@@ -783,7 +773,7 @@
 - Author(s):         Mantas-2155X aka 2155X
 - More information:  https://www.patreon.com/2155X
 
-# VideoExport v1.2.6
+# VideoExport v1.2.5
 - Short description: Video and gif recorder, press Ctrl+E(possible issues)
 - Author(s):         joan6694
 - More information:  ???
